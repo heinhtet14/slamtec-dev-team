@@ -17,6 +17,6 @@ int main(int argc, char * argv[])
 	{
 		std::cout << "point or rectangle contains in this rect1" << std::endl;
 	}
-
+        //delete those comments
 	return 0;
 }
